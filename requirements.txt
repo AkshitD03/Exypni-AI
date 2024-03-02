@@ -1,0 +1,6 @@
+streamlit
+freeGPT
+asyncio
+PIL
+io
+re
